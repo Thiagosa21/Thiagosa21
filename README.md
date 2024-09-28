@@ -3,16 +3,16 @@ Olá seja, Bem Vindo(a) ao meu GitHub - @Thiagosa21👋
 
 Um pouco sobre mim:
 
-👾 Sou um Analista e Desenvolvedor de Sistemas
-🎓 Formado pela ETEP em 2019
-📺 Com 6 anos de experiência na área de TI
-🎯 Atualmente aprendendo Front-end
-📓 Nivel intermediario em inglês
+-👾 Sou um Analista e Desenvolvedor de Sistemas
+-🎓 Formado pela ETEP em 2019
+-📺 Com 6 anos de experiência na área de TI
+-🎯 Atualmente aprendendo Front-end
+-📓 Nivel intermediario em inglês
 
 💻 Tecnologias 💻 
 
-🌐 HTML|CSS|JavaScript
-🔬 LabView
+-🌐 HTML|CSS|JavaScript
+-🔬 LabView
 
 <!--
 **Thiagosa21/Thiagosa21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
