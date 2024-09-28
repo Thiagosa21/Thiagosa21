@@ -4,6 +4,7 @@ Olá seja, Bem Vindo(a) ao meu GitHub - @Thiagosa21👋
 Um pouco sobre mim:
 
 -👾 Sou um Analista e Desenvolvedor de Sistemas
+<br>
 -🎓 Formado pela ETEP em 2019
 -📺 Com 6 anos de experiência na área de TI
 -🎯 Atualmente aprendendo Front-end
