@@ -1,4 +1,4 @@
-Olá seja, Bem Vindo(a) ao meu GitHub - @Thiagosa21👋
+Olá, seja Bem Vindo(a) ao meu GitHub - @Thiagosa21👋
 
 
 Um pouco sobre mim:
