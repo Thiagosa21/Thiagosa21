@@ -12,9 +12,9 @@ Um pouco sobre mim:
 -🎯 Atualmente aprendendo Front-end
 <br>
 -📓 Nivel intermediario em inglês
-
-
-
+<br>
+<br>
+<br>
 💻 Tecnologias 💻 
 
 -🌐 HTML|CSS|JavaScript
