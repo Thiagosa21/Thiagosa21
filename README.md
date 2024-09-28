@@ -17,7 +17,7 @@ Um pouco sobre mim:
 <br>
 💻 Tecnologias 💻 
 
--🌐 HTML|CSS|JavaScript
+-🌐 HTML | CSS | JavaScript
 <br>
 -🔬 LabView
 
