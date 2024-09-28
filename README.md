@@ -6,13 +6,17 @@ Um pouco sobre mim:
 -👾 Sou um Analista e Desenvolvedor de Sistemas
 <br>
 -🎓 Formado pela ETEP em 2019
+<br>
 -📺 Com 6 anos de experiência na área de TI
+<br>
 -🎯 Atualmente aprendendo Front-end
+<br>
 -📓 Nivel intermediario em inglês
 
 💻 Tecnologias 💻 
 
 -🌐 HTML|CSS|JavaScript
+<br>
 -🔬 LabView
 
 <!--
