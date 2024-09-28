@@ -1,7 +1,7 @@
 <h2>Olá, seja Bem Vindo(a) ao meu GitHub - @Thiagosa21👋</h2>
 
 
-<h4>🔍 Um pouco sobre mim: 🔍</h4>
+<h4>🔍 Um pouco sobre mim: </h4>
 
 -👾 Sou um Analista e Desenvolvedor de Sistemas
 <br>
@@ -15,7 +15,7 @@
 <br>
 <br>
 <br>
-<h4>💻 Tecnologias 💻</h4> 
+<h4>💻 Tecnologias </h4> 
 
 -🌐 HTML | CSS | JavaScript
 <br>
