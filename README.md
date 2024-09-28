@@ -20,6 +20,11 @@ Um pouco sobre mim:
 -🌐 HTML | CSS | JavaScript
 <br>
 -🔬 LabView
+<br>
+<br>
+[![Thiagosa21's github stats](https://github-readme-stats.vercel.app/api?username=Thiagosa21&show_icons=true&&theme=radical&hide=["contribs","issues"])](https://github.com/Thiagosa21)
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Thiagosa21&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Thiagosa21/Thiagosa21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
