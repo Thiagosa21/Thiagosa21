@@ -9,7 +9,7 @@
 <br>
 -📺 Com 6 anos de experiência na área de TI
 <br>
--🎯 Atualmente aprendendo Front-end
+-🎯 Atualmente aprendendo python
 <br>
 -📓 Nivel intermediario em inglês
 <br>
@@ -17,7 +17,7 @@
 <br>
 <h4>💻 Tecnologias </h4> 
 
--🌐 HTML | CSS | JavaScript
+-🌐 Python
 <br>
 -🔬 LabView
 <br>
