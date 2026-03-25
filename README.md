@@ -1,25 +1,25 @@
 <h2>Olá, seja Bem Vindo(a) ao meu GitHub - @Thiagosa21👋</h2>
 
 
-<h4>🔍 Um pouco sobre mim: </h4>
+<h4> Um pouco sobre mim: </h4>
 
--👾 Sou um Analista e Desenvolvedor de Sistemas
+- Sou um Analista e Desenvolvedor de Sistemas
 <br>
--🎓 Formado pela ETEP em 2019
+- Formado pela ETEP em 2019
 <br>
--📺 Com 6 anos de experiência na área de TI
+- Com 6 anos de experiência na área de TI
 <br>
--🎯 Atualmente aprendendo python
+- Atualmente aprendendo python
 <br>
--📓 Nivel intermediario em inglês
+- Nivel intermediario em inglês
 <br>
 <br>
 <br>
 <h4>💻 Tecnologias </h4> 
 
--🌐 Python
+- Python
 <br>
--🔬 LabView
+- LabView
 <br>
 <br>
 [![Thiagosa21's github stats](https://github-readme-stats.vercel.app/api?username=Thiagosa21&show_icons=true&&theme=radical&hide=["contribs","issues"])](https://github.com/Thiagosa21)
