@@ -2,7 +2,7 @@
 
 # 👋 Olá, me chamo Thiago
 
-- 🎓 Formado de **Análise e Desenvolvimento de Sistemas**  
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
 - 🛠 Cursando **Engenharia de Software**  
 - 🐍 Estudando **Python | Django | APIs | Banco de Dados**  
 - 💡 Apaixonado por criar soluções práticas e projetos criativos
